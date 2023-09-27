@@ -1,0 +1,38 @@
+{
+  "name": "linkedin",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.5.0",
+    "@mui/material": "^5.3.0",
+    "@next-auth/mongodb-adapter": "^1.0.1",
+    "axios": "^0.26.0",
+    "cheerio": "^1.0.0-rc.10",
+    "framer-motion": "^5.6.0",
+    "googleapis": "^125.0.0",
+    "mongodb": "^4.3.1",
+    "next": "12.0.8",
+    "next-auth": "^4.1.2",
+    "next-themes": "^0.0.15",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-youtube": "^7.14.0",
+    "recoil": "^0.5.2",
+    "request-promise": "^4.2.6",
+    "tailwind-scrollbar-hide": "^1.1.7",
+    "timeago-react": "^3.0.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.30",
+    "tailwindcss": "^3.3.3"
+  }
+}
